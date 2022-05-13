@@ -16,7 +16,7 @@ Thanks for [liwenyip/hugo-easy-gallery](https://github.com/liwenyip/hugo-easy-ga
 
 Now, we could use `{{</* gallery */>}}` shortcode in hugo-theme-jane.
 
-## Normal Image file
+## Normal Image
 
 This is an image in `static/image` folder.
 
