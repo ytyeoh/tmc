@@ -2,8 +2,9 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+baseURL = "https://ytyeoh.github.io/tmc/"
+# baseURL = "http://localhost:1313/"
+title = "槟中总青商团-国际讲演会"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
