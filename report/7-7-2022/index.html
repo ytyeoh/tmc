@@ -592,20 +592,20 @@ COT可以让执委了解职务， 还有和其他的分会执委做链接。
 
   <script type="text/javascript">
   	
-		
-		
-		
-		
-		
-		
-		
-		
+		var password = "blank";
+		var x = prompt("Enter in the password ","");
+		if (x === null) {
+		        window.location = "/tmc";
+		    }
+		if (x.toLowerCase() == password) {
+		 
+		 
 		 var element = document.getElementById("abc");
 		  element.classList.remove("hidden");
-		
-		
-		
-		
+		}
+		else {
+		 window.location = "/tmc";
+		}
 	</script>
         </div>
       </div>
