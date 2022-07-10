@@ -102,19 +102,19 @@
   {{ partial "comments.html" . }}
   <script type="text/javascript">
   	
-		// var password = "blank";
-		// var x = prompt("Enter in the password ","");
-		// if (x === null) {
-		//         window.location = "/tmc";
-		//     }
-		// if (x.toLowerCase() == password) {
-		//  // alert("Come right in \n \n You've entered in the right password");
-		//  // window.location = "good.htm";
+		var password = "blank";
+		var x = prompt("Enter in the password ","");
+		if (x === null) {
+		        window.location = "/tmc";
+		    }
+		if (x.toLowerCase() == password) {
+		 // alert("Come right in \n \n You've entered in the right password");
+		 // window.location = "good.htm";
 		 var element = document.getElementById("abc");
 		  element.classList.remove("hidden");
-		// }
-		// else {
-		//  window.location = "/tmc";
-		// }
+		}
+		else {
+		 window.location = "/tmc";
+		}
 	</script>
 {{- end }}
