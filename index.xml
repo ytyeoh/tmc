@@ -248,7 +248,7 @@ $$&lt;/p&gt;
       
       <guid>https://ytyeoh.github.io/tmc/about/</guid>
       
-        <description>&lt;p&gt;Hugo is a static site engine written  in Go..&lt;/p&gt;
+        <description>&lt;p&gt;Hugo is a static site engine written  in Go&amp;hellip;&lt;/p&gt;
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
