@@ -52,7 +52,7 @@
 					{{ range $users}}
 						<div class="card">
 							<div class="card-header">
-								{{ .name }} - {{.point}}
+								<b>{{ .name }}</b> - 共{{.point}}分
 							</div>
 							<div class="card-body">
 								<ul>
@@ -64,6 +64,7 @@
 								</ul>
 							</div>
 						</div>
+						<hr>
 					{{ end }}
           {{ block "content" . }}{{ end }}
         </div>
