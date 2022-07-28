@@ -59,7 +59,7 @@
 									{{$date := (split .date "," )}}
 
 									{{ range $index, $element := (split .desc "," )}}
-									<li>{{add $index 1 }} - {{$element}} 日期 {{ index $date $index }}</li>
+									<li>{{add $index 1 }} - {{ index $date $index }} | {{$element}} </li>
 									{{ end }}
 								</ul>
 							</div>
