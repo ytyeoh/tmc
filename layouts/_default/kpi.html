@@ -48,6 +48,19 @@
     <main id="main" class="main bg-llight">
       <div class="content-wrapper">
         <div id="content" class="content container">
+					<table>
+						<tr>
+							<th>活动</th>
+							<th>分数</th>
+						</tr>
+	        	{{ range .Params.abc }}
+	        	<tr>
+	        		<td>{{ .name }}</td>
+	        		<td>+{{ .title }}</td>
+	        	</tr>
+          
+          {{ end }}
+          </table>
 					{{ $users := getJSON "https://pccc.kikia.co/tmc/get.php" }}
 					{{ range $users}}
 						<div class="card">
@@ -67,6 +80,7 @@
 						<hr>
 					{{ end }}
           {{ block "content" . }}{{ end }}
+          
         </div>
       </div>
     </main>
