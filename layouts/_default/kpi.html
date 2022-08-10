@@ -43,6 +43,9 @@
   <header id="header" class="header container">
     {{ partial "header.html" . }}
   </header>
+  <div>
+  <canvas id="myChart"></canvas>
+</div>
 
   <div id="mobile-panel">
     <main id="main" class="main bg-llight">
@@ -98,6 +101,7 @@
     </div>
   </div>
   {{ partial "scripts.html" . }}
-  {{ partial "kpi_scripts.html" . }}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+  {{ partial "kpi_scripts.html" (dict "context" . "users" $users)  }}
 </body>
 </html>
