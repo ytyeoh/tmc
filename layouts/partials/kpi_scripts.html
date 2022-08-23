@@ -16,6 +16,7 @@
 	  points.push({{ .point }});
 	  color.push('rgb('+ rgb.join(',') +',0.4)');
 	  bg.push('rgb('+ rgb.join(',') +')');
+	  // bg.push({label: labels, backgroundColor: 'rgb('+ rgb.join(',') +',0.4)', borderColor: 'rgb('+ rgb.join(',') +')', data: {{ .point }} });
   {{end}}
 
   const data = {
@@ -32,6 +33,7 @@
     type: 'bar',
     data: data,
     options: {
+    	indexAxis: 'y',
     scales: {
       y: {
         beginAtZero: true
