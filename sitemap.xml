@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://ytyeoh.github.io/tmc/tags/%E6%89%A7%E5%A7%94%E4%BC%9A%E8%AE%AE/</loc>
-    <lastmod>2022-07-31T15:43:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ytyeoh.github.io/tmc/</loc>
     <lastmod>2022-07-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,6 +66,13 @@
   
   <url>
     <loc>https://ytyeoh.github.io/tmc/categories/%E7%A7%98%E4%B9%A6%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2022-07-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ytyeoh.github.io/tmc/tags/%E6%89%A7%E5%A7%94%E4%BC%9A%E8%AE%AE/</loc>
     <lastmod>2022-07-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -149,20 +149,6 @@
   </url>
   
   <url>
-    <loc>https://ytyeoh.github.io/tmc/tags/image/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ytyeoh.github.io/tmc/post/image-preview/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ytyeoh.github.io/tmc/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -172,6 +158,20 @@
   <url>
     <loc>https://ytyeoh.github.io/tmc/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ytyeoh.github.io/tmc/tags/image/</loc>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ytyeoh.github.io/tmc/post/image-preview/</loc>
+    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -261,14 +261,14 @@
   </url>
   
   <url>
-    <loc>https://ytyeoh.github.io/tmc/categories/development/</loc>
+    <loc>https://ytyeoh.github.io/tmc/tags/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ytyeoh.github.io/tmc/tags/development/</loc>
+    <loc>https://ytyeoh.github.io/tmc/categories/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
