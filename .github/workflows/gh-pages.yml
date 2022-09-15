@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --contentDir='./exampleSite/content' --config='dev-config.toml'
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
