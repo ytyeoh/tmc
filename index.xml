@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>槟中总青商团-国际讲演会</title><link>https://ytyeoh.github.io/tmc/</link><description>Recent content on 槟中总青商团-国际讲演会</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 08 Sep 2022 15:43:48 +0800</lastBuildDate><atom:link href="https://ytyeoh.github.io/tmc/index.xml" rel="self" type="application/rss+xml"/><item><title>Jane 主题预览</title><link>https://ytyeoh.github.io/tmc/post/jane-theme-preview/</link><pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/jane-theme-preview/</guid><description>&lt;p>主题预览,内容有待填充。&lt;/p></description></item><item><title>About</title><link>https://ytyeoh.github.io/tmc/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/about/</guid><description>&lt;p>Hugo is a static site engine written in Go.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>槟中总青商团-国际讲演会</title><link>/tmc/</link><description>Recent content on 槟中总青商团-国际讲演会</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 08 Sep 2022 15:43:48 +0800</lastBuildDate><atom:link href="/tmc/index.xml" rel="self" type="application/rss+xml"/><item><title>Jane 主题预览</title><link>/tmc/post/jane-theme-preview/</link><pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate><guid>/tmc/post/jane-theme-preview/</guid><description>&lt;p>主题预览,内容有待填充。&lt;/p></description></item><item><title>About</title><link>/tmc/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>/tmc/about/</guid><description>&lt;p>Hugo is a static site engine written in Go.&lt;/p>
 &lt;p>It makes use of a variety of open source projects including:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/spf13/cobra">Cobra&lt;/a>&lt;/li>
@@ -6,7 +6,7 @@
 &lt;li>&lt;a href="https://github.com/spf13/jWalterWeatherman">J Walter Weatherman&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/spf13/cast">Cast&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>Learn more and contribute on &lt;a href="https://github.com/gohugoio">GitHub&lt;/a>.&lt;/p></description></item><item><title>KPI</title><link>https://ytyeoh.github.io/tmc/kpi/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/kpi/</guid><description/></item><item><title>九月执委会议</title><link>https://ytyeoh.github.io/tmc/report/8-9-2022/</link><pubDate>Thu, 08 Sep 2022 15:43:48 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/report/8-9-2022/</guid><description>&lt;p>&lt;em>TMC September Committee Meeting&lt;/em>
+&lt;p>Learn more and contribute on &lt;a href="https://github.com/gohugoio">GitHub&lt;/a>.&lt;/p></description></item><item><title>KPI</title><link>/tmc/kpi/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>/tmc/kpi/</guid><description/></item><item><title>九月执委会议</title><link>/tmc/report/8-9-2022/</link><pubDate>Thu, 08 Sep 2022 15:43:48 +0800</pubDate><guid>/tmc/report/8-9-2022/</guid><description>&lt;p>&lt;em>TMC September Committee Meeting&lt;/em>
 Venue: Coffee Bean (Golden Triangle
 Time: 8:30
 Date: 8/9/2022&lt;/p>
@@ -186,7 +186,7 @@ jayden提议宠物咖啡馆，并只公开给讲演会会员。&lt;/p>
 &lt;li>刘谨镇&lt;/li>
 &lt;li>赖淑菁&lt;/li>
 &lt;li>张景顺B&lt;/li>
-&lt;/ol></description></item><item><title>九月小组会议</title><link>https://ytyeoh.github.io/tmc/report/6-9-2022/</link><pubDate>Tue, 06 Sep 2022 15:43:48 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/report/6-9-2022/</guid><description>&lt;h1 id="会议内容">&lt;em>会议内容&lt;/em>&lt;/h1>
+&lt;/ol></description></item><item><title>九月小组会议</title><link>/tmc/report/6-9-2022/</link><pubDate>Tue, 06 Sep 2022 15:43:48 +0800</pubDate><guid>/tmc/report/6-9-2022/</guid><description>&lt;h1 id="会议内容">&lt;em>会议内容&lt;/em>&lt;/h1>
 &lt;h2 id="tmc会员入会费财政报告">TMC会员入会费财政报告&lt;/h2>
 &lt;p>财政建议入会费cut off month 在明年2023年3月，之前已缴交RM320（注册费RM100+半年入会费RM220)但还未在TMC 网站注册的新会员，统统以RM340为这期的新入会费价格为标准。&lt;/p>
 &lt;ul>
@@ -224,7 +224,7 @@ jayden提议宠物咖啡馆，并只公开给讲演会会员。&lt;/p>
 &lt;li>志良&lt;/li>
 &lt;li>eddie&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://ytyeoh.github.io/tmc/tmc/file/2022/9/1.png" alt="image1" title="image1">&lt;/p></description></item><item><title>八月执委会议</title><link>https://ytyeoh.github.io/tmc/report/31-7-2022/</link><pubDate>Sun, 31 Jul 2022 15:43:48 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/report/31-7-2022/</guid><description>&lt;h1 id="会议内容">&lt;em>会议内容&lt;/em>&lt;/h1>
+&lt;p>&lt;img src="/tmc/tmc/file/2022/9/1.png" alt="image1" title="image1">&lt;/p></description></item><item><title>八月执委会议</title><link>/tmc/report/31-7-2022/</link><pubDate>Sun, 31 Jul 2022 15:43:48 +0800</pubDate><guid>/tmc/report/31-7-2022/</guid><description>&lt;h1 id="会议内容">&lt;em>会议内容&lt;/em>&lt;/h1>
 &lt;h2 id="1-议决感恩就职yes-tmc-3周年庆暨yes-13周年小组庆日期时间及活动内容及邀请嘉宾oc团队人员">1. 议决感恩、就职、YES TMC 3周年庆暨YES 13周年小组庆日期、时间及活动内容及邀请嘉宾，OC团队人员&lt;/h2>
 &lt;h3 id="就职典礼">就职典礼&lt;/h3>
 &lt;ul>
@@ -245,10 +245,10 @@ jayden提议宠物咖啡馆，并只公开给讲演会会员。&lt;/p>
 &lt;h2 id="3-完成cot-pre-work-执委讨论及总结">3. 完成COT Pre-work 执委讨论及总结&lt;/h2>
 &lt;ul>
 &lt;li>填写目标并提交表格，以下为即将提交表格。&lt;/li>
-&lt;li>&lt;a href="https://ytyeoh.github.io/tmc/tmc/file/2022/8/1.pdf">表格1&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ytyeoh.github.io/tmc/tmc/file/2022/8/2.pdf">表格2&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ytyeoh.github.io/tmc/tmc/file/2022/8/3.pdf">表格3&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ytyeoh.github.io/tmc/tmc/file/2022/8/4.pdf">表格4&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/tmc/tmc/file/2022/8/1.pdf">表格1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/tmc/tmc/file/2022/8/2.pdf">表格2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/tmc/tmc/file/2022/8/3.pdf">表格3&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/tmc/tmc/file/2022/8/4.pdf">表格4&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="4-yes-tmc会员入会费财政报告">4. YES TMC会员入会费财政报告&lt;/h2>
 &lt;p>财政建议入会费cut off month 在明年2023年3月，之前已缴交RM320（注册费RM100+半年入会费RM220)但还未在TMC 网站注册的新会员，统统以RM340为这期的新入会费价格为标准。&lt;/p>
@@ -257,7 +257,7 @@ jayden提议宠物咖啡馆，并只公开给讲演会会员。&lt;/p>
 &lt;h1 id="其他">其他&lt;/h1>
 &lt;ul>
 &lt;li>同一个新会员kpi分数推荐人可以达到最高3个。&lt;/li>
-&lt;/ul></description></item><item><title>七月执委会议</title><link>https://ytyeoh.github.io/tmc/report/7-7-2022/</link><pubDate>Thu, 07 Jul 2022 15:43:48 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/report/7-7-2022/</guid><description>&lt;h1 id="七月执委会议">七月执委会议&lt;/h1>
+&lt;/ul></description></item><item><title>七月执委会议</title><link>/tmc/report/7-7-2022/</link><pubDate>Thu, 07 Jul 2022 15:43:48 +0800</pubDate><guid>/tmc/report/7-7-2022/</guid><description>&lt;h1 id="七月执委会议">七月执委会议&lt;/h1>
 &lt;p>地点：&lt;strong>渔人码头&lt;/strong>&lt;/p>
 &lt;p>时间：8pm&lt;/p>
 &lt;h2 id="1感恩会籍就职仪式8月份时间地点活动及颁奖内容">1）感恩会籍就职仪式8月份时间，地点，活动及颁奖内容&lt;/h2>
@@ -316,7 +316,7 @@ COT可以让执委了解职务， 还有和其他的分会执委做链接。
 &lt;h2 id="8kpi记录">8）kpi记录&lt;/h2>
 &lt;ul>
 &lt;li>记录相关会员kpi分数活动。&lt;/li>
-&lt;li>&lt;a href="https://ytyeoh.github.io/tmc/tmc/file/2022/7/kpi.xlsx">下载&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/tmc/tmc/file/2022/7/kpi.xlsx">下载&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="9其它">9）其它&lt;/h2>
 &lt;ul>
@@ -336,9 +336,9 @@ COT可以让执委了解职务， 还有和其他的分会执委做链接。
 &lt;li>江天佑&lt;/li>
 &lt;li>张景顺&lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="https://ytyeoh.github.io/tmc/tmc/file/2022/7/1.jpeg" alt="image1" title="image1">
-&lt;img src="https://ytyeoh.github.io/tmc/tmc/file/2022/7/2.jpeg" alt="image2" title="image2">
-&lt;img src="https://ytyeoh.github.io/tmc/tmc/file/2022/7/3.jpeg" alt="image3" title="image3">&lt;/p></description></item><item><title>Math Preview</title><link>https://ytyeoh.github.io/tmc/post/math-preview/</link><pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/math-preview/</guid><description>&lt;p>&lt;a href="https://www.intmath.com/cg5/katex-mathjax-comparison.php">KaTeX and MathJax Comparison Demo, currently processed as KaTex&lt;/a>&lt;/p>
+&lt;p>&lt;img src="/tmc/tmc/file/2022/7/1.jpeg" alt="image1" title="image1">
+&lt;img src="/tmc/tmc/file/2022/7/2.jpeg" alt="image2" title="image2">
+&lt;img src="/tmc/tmc/file/2022/7/3.jpeg" alt="image3" title="image3">&lt;/p></description></item><item><title>Math Preview</title><link>/tmc/post/math-preview/</link><pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate><guid>/tmc/post/math-preview/</guid><description>&lt;p>&lt;a href="https://www.intmath.com/cg5/katex-mathjax-comparison.php">KaTeX and MathJax Comparison Demo, currently processed as KaTex&lt;/a>&lt;/p>
 &lt;h2 id="repeating-fractions">Repeating fractions&lt;/h2>
 &lt;p>$$
 \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} \equiv 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
@@ -474,7 +474,7 @@ $$&lt;/p>
 &lt;p>$$
 f(x) = \sqrt{1+x}, \quad x \ge -1
 f(x) \sim x^2, \quad x\to\infty
-$$&lt;/p></description></item><item><title>Image Preview</title><link>https://ytyeoh.github.io/tmc/post/image-preview/</link><pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/image-preview/</guid><description>&lt;p>Thanks for &lt;a href="https://github.com/liwenyip/hugo-easy-gallery">liwenyip/hugo-easy-gallery&lt;/a> &amp;amp; &lt;a href="https://github.com/xianmin/hugo-theme-jane/pull/48">Zebradil · Pull Request #48&lt;/a> .&lt;/p>
+$$&lt;/p></description></item><item><title>Image Preview</title><link>/tmc/post/image-preview/</link><pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate><guid>/tmc/post/image-preview/</guid><description>&lt;p>Thanks for &lt;a href="https://github.com/liwenyip/hugo-easy-gallery">liwenyip/hugo-easy-gallery&lt;/a> &amp;amp; &lt;a href="https://github.com/xianmin/hugo-theme-jane/pull/48">Zebradil · Pull Request #48&lt;/a> .&lt;/p>
 &lt;p>Now, we could use &lt;code>{{&amp;lt; gallery &amp;gt;}}&lt;/code> shortcode in hugo-theme-jane.&lt;/p>
 &lt;h2 id="normal-image">Normal Image&lt;/h2>
 &lt;p>This is an image in &lt;code>static/image&lt;/code> folder.&lt;/p>
@@ -558,7 +558,7 @@ $$&lt;/p></description></item><item><title>Image Preview</title><link>https://yt
 &lt;li>&lt;code>none&lt;/code> - hard transition&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Jane-Theme Footnote Preview</title><link>https://ytyeoh.github.io/tmc/post/doc-footnote-preview/</link><pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/doc-footnote-preview/</guid><description>&lt;p>Hugo-theme-jane optimized for footnote. When you mouse hover the footnote&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> , footnote content will be displayed.&lt;/p>
+&lt;/ul></description></item><item><title>Jane-Theme Footnote Preview</title><link>/tmc/post/doc-footnote-preview/</link><pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate><guid>/tmc/post/doc-footnote-preview/</guid><description>&lt;p>Hugo-theme-jane optimized for footnote. When you mouse hover the footnote&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> , footnote content will be displayed.&lt;/p>
 &lt;h2 id="footnote-1">Footnote-1&lt;/h2>
 &lt;div class="highlight">&lt;div style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
@@ -661,7 +661,7 @@ $$&lt;/p></description></item><item><title>Image Preview</title><link>https://yt
 &lt;p>Here is the &lt;em>text&lt;/em> of the &lt;strong>footnote-5&lt;/strong>.&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>English Creating a New Theme</title><link>https://ytyeoh.github.io/tmc/post/english-preview/</link><pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/english-preview/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;/div></description></item><item><title>English Creating a New Theme</title><link>/tmc/post/english-preview/</link><pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate><guid>/tmc/post/english-preview/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
 &lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p>
 &lt;p>In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.&lt;/p>
@@ -1412,7 +1412,7 @@ $ vi themes/zafta/layouts/_default/single.html
 :wq
 &lt;/code>&lt;/pre>&lt;p>Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn&amp;rsquo;t.&lt;/p>
 &lt;h3 id="dont-repeat-yourself">Don&amp;rsquo;t Repeat Yourself&lt;/h3>
-&lt;p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p></description></item><item><title>This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title</title><link>https://ytyeoh.github.io/tmc/post/this-is-a-very-long-title/</link><pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/this-is-a-very-long-title/</guid><description>&lt;p>This is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long title&lt;/p></description></item><item><title>Creating a New Theme</title><link>https://ytyeoh.github.io/tmc/post/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/tmc/post/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p></description></item><item><title>This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title</title><link>/tmc/post/this-is-a-very-long-title/</link><pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate><guid>/tmc/post/this-is-a-very-long-title/</guid><description>&lt;p>This is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long title&lt;/p></description></item><item><title>Creating a New Theme</title><link>/tmc/post/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>/tmc/post/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
 &lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p>
 &lt;p>In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.&lt;/p>
@@ -2163,7 +2163,7 @@ $ vi themes/zafta/layouts/_default/single.html
 :wq
 &lt;/code>&lt;/pre>&lt;p>Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn&amp;rsquo;t.&lt;/p>
 &lt;h3 id="dont-repeat-yourself">Don&amp;rsquo;t Repeat Yourself&lt;/h3>
-&lt;p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>https://ytyeoh.github.io/tmc/post/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/tmc/post/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="http://golang.org/">go&lt;/a> &lt;a href="http://golang.org/pkg/html/template/">html/template&lt;/a> library for
+&lt;p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>/tmc/post/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>/tmc/post/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="http://golang.org/">go&lt;/a> &lt;a href="http://golang.org/pkg/html/template/">html/template&lt;/a> library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
@@ -2200,7 +2200,7 @@ functions.&lt;/p>
 &lt;p>Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href="https://ytyeoh.github.io/tmc/layout/variables">variables&lt;/a> page.&lt;/p>
+&lt;a href="/tmc/layout/variables">variables&lt;/a> page.&lt;/p>
 &lt;p>A variable is accessed by referencing the variable name.&lt;/p>
 &lt;pre>&lt;code>&amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
 &lt;/code>&lt;/pre>
@@ -2211,7 +2211,7 @@ page you are rendering. More details are available on the
 &lt;h2 id="functions">Functions&lt;/h2>
 &lt;p>Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href="https://ytyeoh.github.io/tmc/layout/functions">Hugo template
+available functions with their own. &lt;a href="/tmc/layout/functions">Hugo template
 functions&lt;/a> provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -2342,7 +2342,7 @@ type (supported by your front matter/config format) and use them however
 you want to inside of your templates.&lt;/p>
 &lt;h2 id="using-content-page-parameters">Using Content (page) Parameters&lt;/h2>
 &lt;p>In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href="https://ytyeoh.github.io/tmc/content/front-matter">front matter&lt;/a>.&lt;/p>
+templates. This happens in the &lt;a href="/tmc/content/front-matter">front matter&lt;/a>.&lt;/p>
 &lt;p>An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
 doesn&amp;rsquo;t make a lot of sense. We&amp;rsquo;ve defined a variable in our front matter
@@ -2406,11 +2406,11 @@ so, such as in this example:&lt;/p>
 &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;{{.RelPermalink}}&amp;#34;&amp;gt;{{.Title}}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
 {{end}}&amp;lt;/ul&amp;gt;
 &amp;lt;/nav&amp;gt;
-&lt;/code>&lt;/pre></description></item><item><title>Getting Started with Hugo</title><link>https://ytyeoh.github.io/tmc/post/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/tmc/post/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">Step 1. Install Hugo&lt;/h2>
+&lt;/code>&lt;/pre></description></item><item><title>Getting Started with Hugo</title><link>/tmc/post/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>/tmc/post/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">Step 1. Install Hugo&lt;/h2>
 &lt;p>Goto &lt;a href="https://github.com/spf13/hugo/releases">hugo releases&lt;/a> and download the
 appropriate version for your os and architecture.&lt;/p>
 &lt;p>Save it somewhere specific as we will be using it in the next step.&lt;/p>
-&lt;p>More complete instructions are available at &lt;a href="https://ytyeoh.github.io/tmc/overview/installing/">installing hugo&lt;/a>&lt;/p>
+&lt;p>More complete instructions are available at &lt;a href="/tmc/overview/installing/">installing hugo&lt;/a>&lt;/p>
 &lt;h2 id="step-2-build-the-docs">Step 2. Build the Docs&lt;/h2>
 &lt;p>Hugo has its own example site which happens to also be the documentation site
 you are reading right now.&lt;/p>
@@ -2458,7 +2458,7 @@ are located at the same relative location as the url, in our case
 &lt;p>Notice how quick that was. Try to refresh the site before it&amp;rsquo;s finished building.. I double dare you.
 Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.&lt;/p>
 &lt;h2 id="step-4-have-fun">Step 4. Have fun&lt;/h2>
-&lt;p>The best way to learn something is to play with it.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>https://ytyeoh.github.io/tmc/post/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/tmc/post/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">Move static content to &lt;code>static&lt;/code>&lt;/h2>
+&lt;p>The best way to learn something is to play with it.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>/tmc/post/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>/tmc/post/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">Move static content to &lt;code>static&lt;/code>&lt;/h2>
 &lt;p>Jekyll has a rule that any directory not starting with &lt;code>_&lt;/code> will be copied as-is to the &lt;code>_site&lt;/code> output. Hugo keeps all static content under &lt;code>static&lt;/code>. You should therefore move it all there.
 With Jekyll, something that looked like&lt;/p>
 &lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
@@ -2473,7 +2473,7 @@ logo.png
 &lt;/code>&lt;/pre>
 &lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p>
 &lt;h2 id="create-your-hugo-configuration-file">Create your Hugo configuration file&lt;/h2>
-&lt;p>Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href="https://ytyeoh.github.io/tmc/overview/configuration/">Hugo configuration documentation&lt;/a> for details.&lt;/p>
+&lt;p>Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href="/tmc/overview/configuration/">Hugo configuration documentation&lt;/a> for details.&lt;/p>
 &lt;h2 id="set-your-configuration-publish-folder-to-_site">Set your configuration publish folder to &lt;code>_site&lt;/code>&lt;/h2>
 &lt;p>The default is for Jekyll to publish to &lt;code>_site&lt;/code> and for Hugo to publish to &lt;code>public&lt;/code>. If, like me, you have &lt;a href="http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html">&lt;code>_site&lt;/code> mapped to a git submodule on the &lt;code>gh-pages&lt;/code> branch&lt;/a>, you&amp;rsquo;ll want to do one of two alternatives:&lt;/p>
 &lt;ol>
@@ -2495,10 +2495,10 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="convert-jekyll-templates-to-hugo-templates">Convert Jekyll templates to Hugo templates&lt;/h2>
-&lt;p>That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href="http://jekyllrb.com/docs/templates/">Jekyll&amp;rsquo;s template documentation&lt;/a> if you need to refresh your memory on how you built your blog and &lt;a href="https://ytyeoh.github.io/tmc/layout/templates/">Hugo&amp;rsquo;s template&lt;/a> to learn Hugo&amp;rsquo;s way.&lt;/p>
+&lt;p>That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href="http://jekyllrb.com/docs/templates/">Jekyll&amp;rsquo;s template documentation&lt;/a> if you need to refresh your memory on how you built your blog and &lt;a href="/tmc/layout/templates/">Hugo&amp;rsquo;s template&lt;/a> to learn Hugo&amp;rsquo;s way.&lt;/p>
 &lt;p>As a single reference data point, converting my templates for &lt;a href="http://heyitsalex.net/">heyitsalex.net&lt;/a> took me no more than a few hours.&lt;/p>
 &lt;h2 id="convert-jekyll-plugins-to-hugo-shortcodes">Convert Jekyll plugins to Hugo shortcodes&lt;/h2>
-&lt;p>Jekyll has &lt;a href="http://jekyllrb.com/docs/plugins/">plugins&lt;/a>; Hugo has &lt;a href="https://ytyeoh.github.io/tmc/doc/shortcodes/">shortcodes&lt;/a>. It&amp;rsquo;s fairly trivial to do a port.&lt;/p>
+&lt;p>Jekyll has &lt;a href="http://jekyllrb.com/docs/plugins/">plugins&lt;/a>; Hugo has &lt;a href="/tmc/doc/shortcodes/">shortcodes&lt;/a>. It&amp;rsquo;s fairly trivial to do a port.&lt;/p>
 &lt;h3 id="implementation">Implementation&lt;/h3>
 &lt;p>As an example, I was using a custom &lt;a href="https://github.com/alexandre-normand/alexandre-normand/blob/74bb12036a71334fdb7dba84e073382fc06908ec/_plugins/image_tag.rb">&lt;code>image_tag&lt;/code>&lt;/a> plugin to generate figures with caption when running Jekyll. As I read about shortcodes, I found Hugo had a nice built-in shortcode that does exactly the same thing.&lt;/p>
 &lt;p>Jekyll&amp;rsquo;s plugin:&lt;/p>
@@ -2590,7 +2590,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 &lt;h3 id="clean-up">Clean up&lt;/h3>
 &lt;p>You&amp;rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&amp;rsquo;t used, delete it.&lt;/p>
 &lt;h2 id="a-practical-example-in-a-diff">A practical example in a diff&lt;/h2>
-&lt;p>&lt;a href="http://heyitsalex.net/">Hey, it&amp;rsquo;s Alex&lt;/a> was migrated in less than a &lt;em>father-with-kids day&lt;/em> from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href="https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610">diff&lt;/a>.&lt;/p></description></item><item><title>Syntax Highlighting</title><link>https://ytyeoh.github.io/tmc/post/syntax-highlighting/</link><pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><guid>https://ytyeoh.github.io/tmc/post/syntax-highlighting/</guid><description>&lt;p>More detail: &lt;a href="https://gohugo.io/content-management/syntax-highlighting/">Syntax Highlighting | Hugo&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://heyitsalex.net/">Hey, it&amp;rsquo;s Alex&lt;/a> was migrated in less than a &lt;em>father-with-kids day&lt;/em> from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href="https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610">diff&lt;/a>.&lt;/p></description></item><item><title>Syntax Highlighting</title><link>/tmc/post/syntax-highlighting/</link><pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate><guid>/tmc/post/syntax-highlighting/</guid><description>&lt;p>More detail: &lt;a href="https://gohugo.io/content-management/syntax-highlighting/">Syntax Highlighting | Hugo&lt;/a>&lt;/p>
 &lt;div class="highlight">&lt;div style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-0-1">&lt;a style="outline: none; text-decoration:none; color:inherit" href="#hl-0-1">1&lt;/a>
