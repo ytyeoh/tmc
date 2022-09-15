@@ -73,6 +73,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   toc = true                                                                            # 是否开启目录
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
   bootcdn = false           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
+  mathjax = false
   contentCopyright = '<a rel="license noopener" href="https://ytyeoh.github.io/tmc" target="_blank">PCCC YES Toasmaster</a>'
 
   # Link custom CSS and JS assets
@@ -80,7 +81,83 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
+  [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
+    enable = false
+    jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
+    slideout = '<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>'
+
+  [params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
+    enable = false
+    repo = "xianmin/comments-for-hugo-theme-jane"    # The repo to store comments
+    issueTerm = "pathname"
+    theme = "github-light"                           # theme: github-light, github-dark, github-dark-orange, icy-dark, dark-blue, photon-dark
+
+  [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
+    enable = true
+    repo = "xianmin/comments-for-hugo-theme-jane"
+    repoId = "MDEwOlJlcG9zaXRvcnkxNDAyNDYzNjc="
+    category = "Announcements"
+    categoryId = "DIC_kwDOCFv9X84CRRWF"
+    # mapping = "pathname"  # comment value is the default value
+    # strict = 0
+    # reactionsEnabled = 1
+    # emitMetadata = 0
+    # inputPosition = "top"
+    # theme = "light"
+    # lang = "en"
+    # lazyLoading = false
+
+  [params.search.google]    # google custom search, see https://cse.google.com
+    enable = true
+    id = "002186711602136249422:q1gkomof_em"
+    title = "Search"
+
+  # use public git repo url to link lastmod git commit, enableGitInfo should be true.
+  # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
+  [params.gitInfo]
+    gitRepo = "https://github.com/xianmin/hugo-theme-jane"
+    showCommitMessage = true
+
+  [params.reward]                                         # 文章打赏
+    enable = false
+    wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
+    alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
+
   [params.social]                                         # 社交链接
     a-email = "mailto:your@email.com"
-    d-facebook = "http://localhost:1313"
+    b-stack-overflow = "http://en.xianmin.org/hugo-theme-jane/"
+    c-twitter = "http://en.xianmin.org/hugo-theme-jane/"
+    d-facebook = "http://en.xianmin.org/hugo-theme-jane/"
+    e-linkedin = "http://en.xianmin.org/hugo-theme-jane/"
+    f-google = "http://en.xianmin.org/hugo-theme-jane/"
+    g-github = "http://en.xianmin.org/hugo-theme-jane/"
+    h-weibo = "http://en.xianmin.org/hugo-theme-jane/"
+    i-zhihu = "http://en.xianmin.org/hugo-theme-jane/"
+    j-douban = "http://en.xianmin.org/hugo-theme-jane/"
+    k-pocket = "http://en.xianmin.org/hugo-theme-jane/"
+    l-tumblr = "http://en.xianmin.org/hugo-theme-jane/"
+    m-instagram = "http://en.xianmin.org/hugo-theme-jane/"
+    n-gitlab = "http://en.xianmin.org/hugo-theme-jane/"
+    o-goodreads = "http://en.xianmin.org/hugo-theme-jane/"
+    p-coding = "http://en.xianmin.org/hugo-theme-jane/"
+    q-bilibili = "http://en.xianmin.org/hugo-theme-jane/"
+    r-codeforces = "http://en.xianmin.org/hugo-theme-jane/"
+    s-mastodon = "http://en.xianmin.org/hugo-theme-jane/"
+
+# Highlight options. See https://gohugo.io/content-management/syntax-highlighting/
+[markup]
+  [markup.highlight]
+    anchorLineNos = true
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'friendly'
+    tabWidth = 4
 
