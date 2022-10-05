@@ -2,8 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "/tmc"
-# baseURL = "http://localhost:1313/"
+# baseURL = "/tmc"
+baseURL = "http://localhost:1313/"
 title = "槟中总青商团-国际讲演会"
 enableRobotsTXT = true
 enableEmoji = true
