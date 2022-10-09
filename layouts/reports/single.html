@@ -3,7 +3,13 @@
   <article class="post bg-white hidden" id="abc">
     <!-- post-header -->
     <header class="post-header">
-      <h1 class="post-title">{{ .Title }}</h1>
+	  <h1 class="post-title">{{ .Title }}</h1>
+      <h2>槟中总青商团国际讲演会</h2>
+      <h2>PCCC YES Toastmasters Club</h2>
+      
+	  <h6>{{ .Params.venue }}</h6>
+	  <h6>{{ .Date.Format "02-1-2006 3:04 PM "  }}</h6>
+
       {{ partial "post/i18nlist.html" . }}
       <div class="post-meta">
         <time datetime="{{ .Date.Format "2006-01-02" }}" class="post-time">
@@ -102,19 +108,19 @@
   {{ partial "comments.html" . }}
   <script type="text/javascript">
   	
-		var password = "blank";
-		var x = prompt("Enter in the password ","");
-		if (x === null) {
-		        window.location = "/tmc";
-		    }
-		if (x.toLowerCase() == password) {
-		 // alert("Come right in \n \n You've entered in the right password");
+		// var password = "blank";
+		// var x = prompt("Enter in the password ","");
+		// if (x === null) {
+		//         window.location = "/tmc";
+		//     }
+		// if (x.toLowerCase() == password) {
+		//  // alert("Come right in \n \n You've entered in the right password");
 		 // window.location = "good.htm";
 		 var element = document.getElementById("abc");
 		  element.classList.remove("hidden");
-		}
-		else {
-		 window.location = "/tmc";
-		}
+		// }
+		// else {
+		//  window.location = "/tmc";
+		// }
 	</script>
 {{- end }}
