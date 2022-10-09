@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: /tmc/sitemap.xml
+Sitemap: http://localhost:1313/tmc/sitemap.xml
