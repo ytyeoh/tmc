@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1313/tmc/sitemap.xml
+Sitemap: https://ytyeoh.github.io/tmc/sitemap.xml
