@@ -26,6 +26,8 @@ abc:
     title: "1"
   - name: "出席例会备稿/评估/即兴 "
     title: "1"
+  - name: "最佳例会备稿/评估/即兴 "
+    title: "1"
   - name: "筹划活动OC "
     title: "2"
   - name: "筹划活动执委 "
