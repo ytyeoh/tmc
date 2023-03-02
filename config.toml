@@ -16,6 +16,8 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
+  
+
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "zh-cn"           # Default language to use
 [languages.zh-cn]
@@ -30,29 +32,26 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "This is Home"
+  name = "主页"
   weight = 10
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "档案"
   weight = 20
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
-  name = "Tags"
+  name = "标签"
   weight = 30
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "Categories"
+  name = "分类"
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "https://gohugo.io"
+
 
 
 [params]
@@ -62,7 +61,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "槟中总青商团国际讲演会"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","jane"]
+  keywords = ["槟中总青商团","国际讲演会"]
   description = "一个属于企业家的讲演会平台"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
@@ -129,6 +128,9 @@ defaultContentLanguage = "zh-cn"           # Default language to use
 
 # Highlight options. See https://gohugo.io/content-management/syntax-highlighting/
 [markup]
+  [goldmark]
+   [renderer]
+     unsafe = true
   [markup.highlight]
     anchorLineNos = true
     codeFences = true

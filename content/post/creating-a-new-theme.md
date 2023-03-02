@@ -1,6 +1,7 @@
 ---
 author: "Michael Henderson"
 date: 2014-09-28
+draft: true
 title: "Creating a New Theme"
 tags: [
     "go",

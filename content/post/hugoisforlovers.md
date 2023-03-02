@@ -1,3 +1,6 @@
+---
+draft: true
+---
 +++
 title = "Getting Started with Hugo"
 description = ""

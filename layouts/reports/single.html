@@ -1,6 +1,32 @@
 {{ define "content" -}}
 
   <article class="post bg-white hidden" id="abc">
+    
+    <div class="post-footer">
+      <!-- Post Pagination -->
+      <nav class="post-nav">
+        {{ with .NextInSection }}
+          <a class="prev" href="{{ .RelPermalink }}">
+            {{/* icon left */}}
+            <i class="iconfont">
+              {{ partial "svg/left.svg" }}
+            </i>
+            <span class="prev-text nav-default">{{ .Title }}</span>
+            <span class="prev-text nav-mobile">{{ i18n "prev_post" }}</span>
+          </a>
+        {{- end }}
+        {{ with .PrevInSection }}
+          <a class="next" href="{{ .RelPermalink }}">
+            <span class="next-text nav-default">{{ .Title }}</span>
+            <span class="prev-text nav-mobile">{{ i18n "next_post" }}</span>
+            {{/* icon right */}}
+            <i class="iconfont">
+              {{ partial "svg/right.svg" }}
+            </i>
+          </a>
+        {{- end }}
+      </nav>
+    </div>
     <!-- post-header -->
     <header class="post-header">
 	  <h1 class="post-title">{{ .Title }}</h1>
@@ -8,13 +34,11 @@
       <h2>PCCC YES Toastmasters Club</h2>
       
 	  <h6>{{ .Params.venue }}</h6>
-	  <h6>{{ .Date.Format "02-1-2006 3:04 PM "  }}</h6>
+	  <h6>{{ .Params.time }}</h6>
+	  
 
       {{ partial "post/i18nlist.html" . }}
       <div class="post-meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}" class="post-time">
-          {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-        </time>
         {{ with .Params.categories -}}
           <div class="post-category">
             {{ range . }}
