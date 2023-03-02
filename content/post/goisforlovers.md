@@ -1,3 +1,6 @@
+---
+draft: true
+---
 +++
 title = "(Hu)go Template Primer"
 description = ""

@@ -2,10 +2,11 @@
 title: "This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title"
 date: 2017-08-30T15:43:48+08:00
 lastmod: 2017-08-30T15:43:48+08:00
-draft: false
+draft: true
 tags: ["preview", "English", "tag-2"]
 categories: ["English", "index", "test"]
 author: ted
+
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
