@@ -8,6 +8,7 @@
       {{ if .IsPage }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}
     {{- end -}}
   </title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap-grid.min.css" integrity="sha512-Aa+z1qgIG+Hv4H2W3EMl3btnnwTQRA47ZiSecYSkWavHUkBF2aPOIIvlvjLCsjapW1IfsGrEO3FU693ReouVTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   {{ partial "head.html" . }}
 </head>
 <body>
@@ -51,36 +52,47 @@
     <main id="main" class="main bg-llight">
       <div class="content-wrapper post">
         
-        <div id="content" class="content container post-content">
-          <table class="table table-striped table-bordered">
-            <tr>
-              <th>时间</th>
-              <th colspan="3">时限 (分钟) </th>
-              <th>流程</th>
-              <th>职务员 作业员 </th>
-            </tr>
-            
-            {{ range .Params.tab }}
-	            <tr>
-	              <td>{{ .time }}</td>
-	              {{if eq .l 1}}
-	              	
-	              	{{ range .limit }}
-	              		
-	              				<td>{{ .l }}</td>
-	              			
-	              	{{ end }}
-	              	
-              	{{ else }}
-	              <td colspan="3">{{ .limit }}</td>
-	              {{ end }}
-	              <td>{{ .flow }}</td>
-	              <td>{{ .duty }}</td>
-	            </tr>
-	          
-	        {{ end }}
-          </table>
-          <hr>
+        <div id="content" class="content container post-content meet">
+        	{{ .Content }}
+        	<div class="row text-center">
+			    <div class="col-md-2 col-2">
+			      时间
+			    </div>
+			    <div class="col-md-3 col-3 text-center">
+			      时限 <br>(分钟)
+			    </div>
+			    <div class="col-md-4 col-4">
+			      流程
+			    </div>
+			    <div class="col-md-3 col-3">
+			      职务员 <br>作业员 
+			    </div>
+			  </div>
+			  <hr>
+          	<div class="row text-center">
+          		{{ range .Params.tab }}
+		            <div class="col-md-2 col-2">
+		              {{ .time }}
+		          </div>
+		              {{if eq .l 1}}
+		              	
+		              	{{ range $index, $element := .limit }}
+		              		
+		              				
+	      					<div class="col-md-1 col-1 "><div class="bg-{{ $index }}">{{ $element.l }}</div></div>
+		              				
+		              	{{ end }}
+		              	
+	              	{{ else }}
+		              <div class="col-md-3 col-3 ">{{ .limit }}</div>
+		              {{ end }}
+		              <div class="col-md-4 col-4">{{ .flow | safeHTML }}</div>
+		              <div class="col-md-3 col-3">{{ .duty }}</div>
+		            <hr>
+		          
+		        {{ end }}
+          	</div>
+          
           
           {{ block "content" . }}{{ end }}
           
