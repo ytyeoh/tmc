@@ -21,31 +21,31 @@ menu:
 ## 行程
 ### Day1
 
-槟岛人 
-7.30am 早餐集合
-8am 离开岛
+#### 槟岛人 
+- 7.30am 早餐集合
+- 8am 离开岛
 
-Mainland人
-7.30am Autocity Subway (尊重各位意见）
-8.30 am 三辆车一起出发 
-请注意：迟到的人会让等待的人发火，自己看着办 😡  
-12.30pm  美罗午餐https://goo.gl/maps/LsX45X61L7XqTBKc6
+#### Mainland人
+- 7.30am Autocity Subway (尊重各位意见）
+- 8.30 am 三辆车一起出发 
+- 请注意：迟到的人会让等待的人发火，自己看着办 😡  
+- 12.30pm  美罗午餐https://goo.gl/maps/LsX45X61L7XqTBKc6
 
-{{  午餐后 Kia Carnival 消失一阵子      }}  
-其他人去Check in Pearl Hotel Old Klang Road         
+- {{  午餐后 Kia Carnival 消失一阵子      }}  
+- 其他人去Check in Pearl Hotel Old Klang Road         
 
-3pm  宋居 
-PCCC YES TMC committee meeting (7min walk from Pearl Hotel)         
-5pm Back to Hotel/自由时间          
-6pm  出发大会（各自callGrab）         
+- 3pm  宋居 
+- PCCC YES TMC committee meeting (7min walk from Pearl Hotel)         
+- 5pm Back to Hotel/自由时间          
+- 6pm  出发大会（各自callGrab）         
             
 ### Day2        
-7am        游泳 
-9.00am enjoy hotel breakfast
-10.30am       随意在KL逛来逛去   
-1pm      在KL午餐
-3pm.   离开KL 
-7pm  到Autocity
+- 7am        游泳 
+- 9.00am enjoy hotel breakfast
+- 10.30am       随意在KL逛来逛去   
+- 1pm      在KL午餐
+- 3pm.   离开KL 
+- 7pm  到Autocity
 
 ## 住宿表
 - 黄绣茹 许惠茗
