@@ -44,7 +44,7 @@
 	  	
 	  	{{ range $num := (seq .total) }}
 	  		{{ $img := print "/tmc/file/" $year "/" $month "/special/images/"  $name "/" . ".webp"}}
-	  		<img src={{ $img }} alt="">
+	  		<img src={{ $img }} alt="" loading="lazy">
 		  
 		{{ end }}	  		
 	  {{ end }}
