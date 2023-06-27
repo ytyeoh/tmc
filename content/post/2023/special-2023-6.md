@@ -12,26 +12,138 @@ menu:
   main:
     parent: "特别活动"
     weight: 1
-images:
-    - name: "tea"
-      title: "宋居"
-      total: 23
-    - name: "dinner"
-      title: "表扬大会晚宴"
-      total: 70
-    - name: "other"
-      title: "其他"
-      total: 9
-video: "true"
-video_total: 12
-aaa: "2023"
-bbb: "6"
 ---
 
 
 
 # 2023Q区表扬大会+玩乐团
 
+## 图片
+### 宋居
+{{< gallery >}}
+  {{< figure link="/tmc/file/2023/6/special/images/tea/1.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/2.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/3.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/4.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/5.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/6.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/7.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/8.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/9.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/10.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/11.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/12.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/13.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/14.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/15.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/16.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/17.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/18.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/19.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/20.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/21.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/22.webp" >}}
+ {{< figure link="/tmc/file/2023/6/special/images/tea/23.webp" >}}
+{{< /gallery >}}
+### 表扬大会晚宴
+
+{{< gallery >}}
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/1.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/2.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/3.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/4.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/5.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/6.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/7.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/8.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/9.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/10.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/11.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/12.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/13.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/14.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/15.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/16.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/17.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/18.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/19.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/20.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/21.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/22.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/23.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/24.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/25.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/26.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/27.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/28.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/29.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/30.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/31.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/32.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/33.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/34.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/35.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/36.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/37.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/38.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/39.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/40.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/41.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/42.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/43.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/44.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/45.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/46.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/47.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/48.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/49.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/50.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/51.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/52.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/53.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/54.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/55.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/56.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/57.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/58.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/59.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/60.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/61.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/62.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/63.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/64.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/65.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/66.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/67.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/68.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/69.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/dinner/70.webp" >}}
+{{< /gallery >}}
+
+### 其他
+{{< gallery >}}
+  {{< figure link="/tmc/file/2023/6/special/images/other/1.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/2.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/3.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/4.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/5.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/6.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/7.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/8.webp" >}} 
+  {{< figure link="/tmc/file/2023/6/special/images/other/9.webp" >}}
+{{< /gallery >}}
+
+## 影片
+{{< youtube DSjV_if0Jfc >}}
+{{< youtube dSVTbNwfQfA >}}
+{{< youtube o3eDs0IefA0 >}}
+{{< youtube xpiQp320F6Q >}}
+{{< youtube C_V82AkzKiI >}}
+{{< youtube nWqrGGuNdW0 >}}
+{{< youtube tDkswH6-vZc >}}
+{{< youtube zANZj0uZ9h8 >}}
+{{< youtube sMwtaHBQMxc >}}
+{{< youtube llftkxojEdg >}}
 
 ## 行程
 ### Day1

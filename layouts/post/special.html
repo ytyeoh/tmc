@@ -13,42 +13,6 @@
 
   <!-- TOC -->
   {{ partial "post/toc.html" . }}
-  <div class="videos">
-
-	{{ $year := .Params.aaa }}
-	{{ $month := .Params.bbb }}
-	<h2>Video</h2>
-	  {{ range $num := (seq .Params.video_total) }}
-	  	
-	  	
-	  	
-	  	
-	  	
-	  		{{ $video := print "/tmc/file/" $year "/" $month "/special/videos/"   . ".mov"}}
-	  		<video width="100%"  controls>
-			  <source src="{{ $video }}" type="video/mp4">
-			  Your browser does not support the video tag.
-			</video>
-		  
-			
-	  {{ end }}
-  </div>
-  <div class="images">
-
-	{{ $year := .Params.aaa }}
-	{{ $month := .Params.bbb }}
-	  {{ range .Params.images }}
-	  	<h2>{{ .title }}</h2>
-	  	{{ $name := .name }}
-	  	
-	  	
-	  	{{ range $num := (seq .total) }}
-	  		{{ $img := print "/tmc/file/" $year "/" $month "/special/images/"  $name "/" . ".webp"}}
-	  		<img src={{ $img }} alt="" loading="lazy">
-		  
-		{{ end }}	  		
-	  {{ end }}
-  </div>
   <!-- Content -->
   <div class="post-content">
       {{ .Content }}
