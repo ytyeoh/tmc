@@ -23,6 +23,7 @@ images:
       title: "其他"
       total: 9
 video: "true"
+video_total: 12
 aaa: "2023"
 bbb: "6"
 ---
