@@ -2327,37 +2327,46 @@ itemscope itemtype="http://schema.org/ImageObject" >
 &lt;/div>
 &lt;h2 id="影片">影片&lt;/h2>
 &lt;p>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/DSjV_if0Jfc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/dSVTbNwfQfA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/o3eDs0IefA0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/xpiQp320F6Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/C_V82AkzKiI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/nWqrGGuNdW0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/tDkswH6-vZc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/zANZj0uZ9h8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/sMwtaHBQMxc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/llftkxojEdg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;/p>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/DSjV_if0Jfc">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/DSjV_if0Jfc" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/dSVTbNwfQfA">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/dSVTbNwfQfA" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/o3eDs0IefA0">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/o3eDs0IefA0" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/xpiQp320F6Q">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/xpiQp320F6Q" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/C_V82AkzKiI">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/C_V82AkzKiI" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/nWqrGGuNdW0">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/nWqrGGuNdW0" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/tDkswH6-vZc">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/tDkswH6-vZc" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/zANZj0uZ9h8">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/zANZj0uZ9h8" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/sMwtaHBQMxc">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/sMwtaHBQMxc" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>
+&lt;object>
+&lt;param name="movie" value="http://www.youtube.com/v/llftkxojEdg">&lt;/param>
+&lt;embed src="http://www.youtube.com/v/llftkxojEdg" type="application/x-shockwave-flash">&lt;/embed>
+&lt;/object>&lt;/p>
 &lt;h2 id="行程">行程&lt;/h2>
 &lt;h3 id="day1">Day1&lt;/h3>
 &lt;h4 id="1-槟岛人">&lt;em>1. 槟岛人&lt;/em>&lt;/h4>
