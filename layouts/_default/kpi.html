@@ -51,8 +51,32 @@
     <main id="main" class="main bg-llight">
       <div class="content-wrapper">
         <div id="content" class="content container">
+        	<h2>奖项</h2>
+        	<ol>
+        		{{ range .Params.ppp }}
+        		<li>{{ .name }} - 🏆{{ .list }}</li>
+				{{ end }}
+        	</ol>
+        	<h2>新分数</h2>
+        	 <u>1-7-2023 开始采用</u>
 					<table>
 						<tr>
+							<th>活动</th>
+							<th>分数</th>
+						</tr>
+				{{ range .Params.xyz }}
+	        	<tr>
+	        		<td>{{ .name }}</td>
+	        		<td>+{{ .title }}</td>
+	        	</tr>
+          
+
+	            {{ end }}
+	            </table>
+	            <table>
+	            	<h2>旧分数</h2>
+	            	 <u>已停用，只供参考</u>
+				<tr>
 							<th>活动</th>
 							<th>分数</th>
 						</tr>
@@ -62,10 +86,12 @@
 	        		<td>+{{ .title }}</td>
 	        	</tr>
           
-          {{ end }}
+	            {{ end }}
           </table>
           <hr>
-					{{ $users := getJSON "https://pccc.kikia.co/tmc/get.php" }}
+          			{{ $url :=  "https://pccc.kikia.co/tmc/get.php" }}
+          			{{ $getppp :=  printf "%s?begin=%s?end=%s" $url .Params.begin .Params.end }}
+					{{ $users := getJSON $getppp }}
 					{{ range $users}}
 						<div class="card">
 							<div class="card-header">
