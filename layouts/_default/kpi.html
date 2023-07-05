@@ -90,7 +90,7 @@
           </table>
           <hr>
           			{{ $url :=  "https://pccc.kikia.co/tmc/get.php" }}
-          			{{ $getppp :=  printf "%s?begin=%s?end=%s" $url .Params.begin .Params.end }}
+          			{{ $getppp :=  printf "%s?begin=%s&end=%s" $url .Params.begin .Params.end }}
 					{{ $users := getJSON $getppp }}
 					{{ range $users}}
 						<div class="card">

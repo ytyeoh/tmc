@@ -15,9 +15,15 @@ comment: false
 mathjax: false
 ppp:
   - name: "最佳备稿"
+    list: "庄英伦，胡志良，张景顺，丘依慧"
   - name: "最佳评估"
+    list: "张景顺,黄延玮"
   - name: "最佳即兴"
+    list: "黄淞浯,周派昇,胡志良,赖淑菁"
   - name: "最佳例会职务"
+    list: "张景顺"
+  - name: "备稿王"
+    list: "庄英伦，胡志良，张景顺"
   - name: "例会王"
     list: "庄英伦，黄绣茹，杨咏达"
   - name: "跑会王"
