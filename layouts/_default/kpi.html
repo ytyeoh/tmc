@@ -73,6 +73,7 @@
 
 	            {{ end }}
 	            </table>
+	            {{ with .Params.abc }}
 	            <table>
 	            	<h2>旧分数</h2>
 	            	 <u>已停用，只供参考</u>
@@ -80,12 +81,13 @@
 							<th>活动</th>
 							<th>分数</th>
 						</tr>
-	        	{{ range .Params.abc }}
+	        	{{ range . }}
 	        	<tr>
 	        		<td>{{ .name }}</td>
 	        		<td>+{{ .title }}</td>
 	        	</tr>
           
+	            {{ end }}
 	            {{ end }}
           </table>
           <hr>
