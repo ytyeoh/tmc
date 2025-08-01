@@ -91,9 +91,11 @@
 	            {{ end }}
           </table>
           <hr>
-          			{{ $url :=  "https://pccc.kikia.co/tmc/get.php" }}
-          			{{ $getppp :=  printf "%s?begin=%s&end=%s" $url .Params.begin .Params.end }}
-					{{ $users := getJSON $getppp }}
+          			{{ $url := "https://pccc.kikia.co/tmc/get.php" }}
+          {{ $getppp := printf "%s?begin=%s&end=%s" $url .Params.begin .Params.end }}
+          {{ $remote := resources.GetRemote $getppp }}
+          {{ $users := $remote | transform.Unmarshal }}
+
 					{{ range $users}}
 						<div class="card">
 							<div class="card-header">
